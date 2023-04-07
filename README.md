@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="img/wave.gif" width="30px" height="30px" />
 
-My name is Muhammad Hanif Firdaus and I'm a IT Engineer • Freelance Designer • Store Assistance • Event Organizer. I'm from Malaysia, living in Penang and currently working at CG Global Profastex Manufacturing Sdn. Bhd., You can find me on [![LinkedIn](img/linkedin15x15.png "LinkedIn Logo")][1].
+My name is **Muhammad Hanif Firdaus** and I'm a **IT Engineer** • Freelance Designer • Store Assistance • Event Organizer. I'm from Malaysia, living in Penang and currently working at CG Global Profastex Manufacturing Sdn. Bhd., You can find me on [![LinkedIn](img/linkedin15x15.png "LinkedIn Logo")][1].
 
 
 
