@@ -23,7 +23,16 @@ My name is **Muhammad Hanif Firdaus** and I'm a **IT Engineer • Freelance Desi
 <a href="https://github.com/devHanif-git/devHanif-git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHanif-git&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
+<a href="https://github.com/devHanif-git/devHanif-git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devHanif-git&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="devHanif GitHub Stats" />
+</a>
 
+<a href="https://github.com/devHanif-git/CG-Inventory-Management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devHanif-git&repo=CG-Inventory-Management&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/devHanif-git/CG-MES-MTF-Creation-Module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devHanif-git&repo=CG-MES-MTF-Creation-Module&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/devHanif-git
@@ -32,3 +41,11 @@ My name is **Muhammad Hanif Firdaus** and I'm a **IT Engineer • Freelance Desi
 <!-- icons -->
 
 [2.2]: img/linkedin15x15.png "LinkedIn Logo"
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
