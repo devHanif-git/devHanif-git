@@ -19,7 +19,10 @@ My name is **Muhammad Hanif Firdaus** and I'm a **IT Engineer • Freelance Desi
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
 
-
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/devHanif-git/devHanif-git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHanif-git&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 <!-- links to your social media accounts -->
 
